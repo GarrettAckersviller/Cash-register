@@ -118,8 +118,6 @@ namespace Cash_register
 
 
 
-
-
         }
 
         private void neworder_Click(object sender, EventArgs e)
